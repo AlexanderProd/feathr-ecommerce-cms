@@ -1,2 +1,2 @@
-# feather-ecommerce-cms
-Feather is aimed at providing an easy way to quickly setup a fully customizable and simple e-commerce store using a flat file database.
+# Feathr Ecommerce Cms
+The Idea behind feathr is to create a simple and lightweight ecommerce cms to quickly setup a simple but completely customizable online store. It uses a flat file database for its products.
