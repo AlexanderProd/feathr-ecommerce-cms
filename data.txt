@@ -1,0 +1,3 @@
+Leet Shirt|24,95|images/leet.png|Leet! Elite! Einfaches weißes T-Shirt mit schwarzem Aufdruck vorne. 100% Baumwolle 155g
+Vape Nation Shirt|29,95|images/vape-nation.jpeg|Elite! Einfaches weißes T-Shirt mit schwarzem Aufdruck vorne. 100% Baumwolle 155g
+PC Master Race Shirt|24,95|images/pc-master-race.png|PC Master Race T-Shirt in Weiß mit Schwarzem Aufdruck. 100% Baumwolle 155g
