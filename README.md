@@ -3,6 +3,7 @@ The Idea behind feathr is to create a simple and lightweight ecommerce cms to qu
 
 ## Disclaimer
 This project is still under development and NOT finished therefore you might encounter bugs and missing features.
+Feel free to join the development. :) 
 
 ## Usage
 To add new products edit the data.csv like in the following format, product images have to be provided in the images folder.
