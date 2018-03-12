@@ -100,8 +100,8 @@
         env: 'production', // Or 'sandbox',
 
         client: {
-              sandbox:    'Ad41WVGJahkW5XBg0IN8KLzQH8HeZHvJ0s_jJHuN_rUPrDwtE0FSRIkRa2Zr3GPmE60C3cCZIXLANZah',
-              production: 'ATEp_qCeSiRl4g9Tj8sIdx5oOaQrOrKO439IG7ou42uW-N1OzRNLukV_jOPizB-9lm-CxyewfJ8cXOiD'
+              sandbox:    '',
+              production: ''
         },
 
         commit: true, // Show a 'Pay Now' button
